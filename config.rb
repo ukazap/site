@@ -70,6 +70,10 @@ helpers do
   end
 end
 
+ready do
+  proxy "_redirects", "netlify_redirects", ignore: true
+end
+
 # Build-specific configuration
 # https://middlemanapp.com/advanced/configuration/#environment-specific-settings
 
