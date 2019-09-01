@@ -1,93 +1,78 @@
-#Bootstrap is used to style bits of the demo. Remove it from the config, gemfile and stylesheets to stop using bootstrap
-require "uglifier"
+require 'tzinfo'
+Time.zone = 'Asia/Singapore'
 
-# Activate and configure extensions
-# https://middlemanapp.com/advanced/configuration/#configuring-extensions
+###
+# Page options, layouts, aliases and proxies
+###
 
-# Use '#id' and '.classname' as div shortcuts in slim
-# http://slim-lang.com/
-Slim::Engine.set_options shortcut: {
-  '#' => { tag: 'div', attr: 'id' }, '.' => { tag: 'div', attr: 'class' }
-}
-
-activate :autoprefixer do |prefix|
-  prefix.browsers = "last 2 versions"
-end
-
-activate :livereload
-# Layouts
-# https://middlemanapp.com/basics/layouts/
-
-# Per-page layout changes
+# Per-page layout changes:
+#
+# With no layout
 page '/*.xml', layout: false
 page '/*.json', layout: false
 page '/*.txt', layout: false
-page "/partials/*", layout: false
-page "/admin/*", layout: false
-
-activate :blog do |blog|
-  blog.permalink = "news/{year}/{title}.html"
-  blog.sources = "posts/{title}.html"
-  blog.layout = "news-detail"
-end
 
 # With alternative layout
-# page '/path/to/file.html', layout: 'other_layout'
+# page "/path/to/file.html", layout: :otherlayout
 
-# Proxy pages
-# https://middlemanapp.com/advanced/dynamic-pages/
+# Proxy pages (http://middlemanapp.com/basics/dynamic-pages/)
+# proxy "/this-page-has-no-template.html", "/template-file.html", locals: {
+#  which_fake_page: "Rendering a fake page with a local variable" }
 
-# proxy product.yml files to product.html 
-data.products.each do |_filename, product|
-  # product is an array: [filename, {data}]
-  proxy "/product/#{product[:title].parameterize}/index.html", "product.html", 
-  locals: {product: product}, 
-  layout: 'product-detail',
-  ignore: true
-end
-
+###
 # Helpers
+###
+
+set :markdown_engine, :kramdown
+activate :syntax
+
+activate :blog do |blog|
+  activate :directory_indexes
+  set :trailing_slash, false
+  # This will add a prefix to all links, template references and source paths
+  # blog.prefix = "blog"
+
+  # blog.permalink = "{year}/{month}/{day}/{title}.html"
+  # Matcher for blog source files
+  blog.sources = "articles/{year}-{month}-{day}-{title}.html"
+  # blog.taglink = "tags/{tag}.html"
+  # blog.layout = "layout"
+  # blog.summary_separator = /(READMORE)/
+  # blog.summary_length = 250
+  # blog.year_link = "{year}.html"
+  # blog.month_link = "{year}/{month}.html"
+  # blog.day_link = "{year}/{month}/{day}.html"
+  blog.default_extension = ".md"
+
+  blog.new_article_template = File.expand_path('source/article_template.yml')
+
+  blog.tag_template = "tag.html"
+  blog.calendar_template = "calendar.html"
+
+  # Enable pagination
+  # blog.paginate = true
+  # blog.per_page = 10
+  # blog.page_link = "page/{num}"
+end
+
+page "/feed.xml", layout: false
+# Reload the browser automatically whenever files change
+# configure :development do
+#   activate :livereload
+# end
+
 # Methods defined in the helpers block are available in templates
-# https://middlemanapp.com/basics/helper-methods/
-
-# pretty urls
-activate :directory_indexes
-
-helpers do
-  #helper to set background images with asset hashes in a style attribute
-  def background_image(image)
-    "background-image: url('" << image_path(image) << "')"
-  end
-  
-  def nav_link(link_text, url, options = {})
-    options[:class] ||= ""
-    options[:class] << " active" if url == current_page.url
-    link_to(link_text, url, options)
-  end
-
-  def markdown(content)
-     Tilt['markdown'].new { content }.render
-  end
-end
-
-ready do
-  proxy "_redirects", "netlify_redirects", ignore: true
-end
+# helpers do
+#   def some_helper
+#     "Helping"
+#   end
+# end
 
 # Build-specific configuration
-# https://middlemanapp.com/advanced/configuration/#environment-specific-settings
-
 configure :build do
-  # Minify css on build
+  # Minify CSS on build
   activate :minify_css
 
   # Minify Javascript on build
-  activate :minify_javascript, ignore: "**/admin/**", compressor: ::Uglifier.new(mangle: true, compress: { drop_console: true }, output: {comments: :none})
-
-  # Use Gzip
-  activate :gzip
-
-  #Use asset hashes to use for caching
-  #activate :asset_hash
-
+  activate :minify_javascript
 end
