@@ -68,6 +68,10 @@ page "/feed.xml", layout: false
 #   end
 # end
 
+ready do
+  proxy "_redirects", "netlify_redirects", ignore: true
+end
+
 # Build-specific configuration
 configure :build do
   # Minify CSS on build
