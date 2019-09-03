@@ -1,0 +1,8 @@
+<figure role="img" <%= "style=\"#{locals[:style]}\"" if locals[:style] %>>
+  <%= image_tag locals[:src], { alt: locals[:alt], title: locals[:title], width: locals[:width] , height: locals[:height] } %>
+  <% if locals[:caption] %>
+  <figcaption>
+    <%= locals[:caption] %>
+  </figcaption>
+  <% end %>
+</figure>

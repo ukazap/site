@@ -12,7 +12,9 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim, possimus ea. Tem
 
 [Visit My GitHub](https://github.com/ukazap)
 
-<a href="https://github.com/ukazap" class="button">Visit My GitHub</a>
+<a href="https://github.com/ukazap" class="button">Visit My GitHub Button</a>
+
+This is an inline quote: <q>Lorem ipsum dolor sit amet</q>. This is a block quote:
 
 > Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit perferendis quos reprehenderit odit harum nobis minus, ratione impedit beatae dolor, dolores maxime voluptate, incidunt explicabo rem vitae. Amet eum, eos.
 
@@ -32,7 +34,20 @@ end
 
 ## Handsome
 
-<%= partial(:media, :locals => {
-  :src => 'https://66.media.tumblr.com/e63747778fb01627f98e756e5fd29eb8/tumblr_psnx266GFN1vt10pl_1280.jpg',
-  :caption => 'Oom Keanu',
+<%= partial(:picture, locals: {
+  src: 'https://imgix.ranker.com/user_node_img/50041/1000806916/original/young-keanu-reeves-in-black-t-shirt-semi-closeup-photo-u1?w=650&q=50&fm=pjpg&fit=crop&crop=faces',
+  caption: 'Oom Keanu',
+  height: 300
 }) %>
+
+# HEADING 1
+
+## HEADING 2
+
+### HEADING 3
+
+#### HEADING 4
+
+##### HEADING 5
+
+###### HEADING 6

@@ -18,6 +18,7 @@ body {
   }
 
   font-family: 'Noto Sans', sans-serif;
+  font-display: swap;
 
   header {
     text-align: center;
@@ -39,6 +40,7 @@ body {
 
     h1, h2 {
       color: black;
+      text-shadow: none;
     }
 
     h1 {
@@ -72,8 +74,6 @@ body {
   #main {
     padding: 1em;
     background-color: #3a4551;
-    // border: 2px solid $blueish-green;
-    box-shadow: $green-box-shadow;
   }
 
   #main, footer {
@@ -97,14 +97,22 @@ a {
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Lexend Zetta', sans-serif;
   color: white;
+  text-shadow: 3px 4px 0px #008080;
 }
 
 .title {
   font-size: 2.25em;
 }
 
+q {
+  font-style: italic;
+}
+
 blockquote {
   font-style: italic;
+  border-left: 5px solid #23292f;
+  margin-left: 0em;
+  padding-left: 1em;
 }
 
 code {
@@ -123,13 +131,25 @@ div.highlight {
 
 <%= Rouge::Themes::Base16::Monokai.render(:scope => '.highlight') %>
 
-.image-wrap {
+figure {
   margin-left: 0px;
+  background-color: #fffff0;
+  display: inline-block;
+  padding: 5px;
+  box-shadow: $green-box-shadow;
 
-  img {
-    max-width: 100%;
-    box-shadow: $green-box-shadow;
+  text-align: center;
+
+  figcaption {
+    color: black;
+    font-size: 0.9em;
+    font-family: 'Noto Sans', sans-serif;
+    margin: 0px;
   }
+}
+
+img {
+  max-width: 100%;
 }
 
 .button {
