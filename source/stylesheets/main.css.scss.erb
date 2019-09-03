@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Fira+Code|Lexend Zetta|Noto+Sans&display=swap');
 
 $text-color: #a9a9b3;
+$brightest-green: #00ffbf;
+$blueish-green: #aaffea;
 $green-box-shadow: 6px 6px 0px 0px #008080;
 
 body {
@@ -19,6 +21,7 @@ body {
 
   header {
     text-align: center;
+    margin: 0 auto;
     padding-top: 10em;
     padding-left: 15px;
 
@@ -30,7 +33,7 @@ body {
 
     box-shadow: $green-box-shadow;
 
-    background-color: #00ffbf;
+    background-color: $brightest-green;
 
     border-top: 4px solid #12e1ad;
     border-left: 4px solid #12e1ad;
@@ -69,10 +72,25 @@ body {
 
     a { color: black; }
   }
+
+  #main {
+    padding: 1em;
+    background-color: #3a4551;
+    // border: 2px solid $blueish-green;
+    box-shadow: $green-box-shadow;
+  }
+
+  #main, footer {
+    margin-top: 4em;
+  }
+
+  footer {
+    text-align: center;
+  }
 }
 
 a {
-  color: #00ffbf;
+  color: $brightest-green;
   display: inline-block;
   text-decoration: none;
   &:hover {
@@ -128,7 +146,7 @@ div.highlight {
   box-shadow: 3px 3px 0px 0px #008080;
   cursor: default;
   &:hover {
-    background-color: #aaffea;
+    background-color: $blueish-green;
   }
   &:active {
     background-color: gray;

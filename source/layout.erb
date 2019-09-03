@@ -9,7 +9,7 @@
       <% if current_article&.title %>
         <%= current_article.title %>
       <% else %>
-        Programming & Lollygagging | Ukaza Perdana
+        Programming & Lollygagging :: Ukaza Perdana
       <% end %>
     </title>
 
@@ -18,17 +18,15 @@
     <%= stylesheet_link_tag :main, media: 'screen' %>
   </head>
 
-  <script src="//instant.page/2.0.0" type="module" defer integrity="sha384-D7B5eODAUd397+f4zNFAVlnDNDtO1ppV8rPnfygILQXhqu3cUndgHvlcJR2Bhig8"></script>
-
   <body>
     <header>
       <h1><a href="/">Programming & Lollygagging</a></h1>
       <h2>Ukaza Perdana's Notes</h2>
       <ul>
-        <li><a class="button" href="/">home</a></li>
-        <li><a class="button" href="https://www.linkedin.com/in/ukazap">résumé</a></li>
-        <li><a class="button" href="/about">about</a></li>
-        <li><a class="button" href="/subscribe">subscribe</a></li>
+        <li><a class="button" href="/">Home</a></li>
+        <li><a class="button" href="https://www.linkedin.com/in/ukazap">Résumé</a></li>
+        <li><a class="button" href="/about">About</a></li>
+        <li><a class="button" href="/subscribe">Subscribe</a></li>
       </ul>
     </header>
 
@@ -41,7 +39,8 @@
       <%= yield %>
     </div>
 
-<!--     <aside>
+    <% if false %>
+    <aside>
       <h2>Recent Articles</h2>
       <ol>
         <% blog.articles[0...10].each do |article| %>
@@ -62,10 +61,11 @@
           <li><%= link_to "#{year} (#{articles.size})", blog_year_path(year) %></li>
         <% end %>
       </ol>
-    </aside> -->
+    </aside>
+    <% end %>
 
     <footer>
-      🤘
+      <a href="#">🤘</a>
     </footer>
   </body>
 </html>
