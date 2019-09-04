@@ -26,6 +26,8 @@ page '/*.txt', layout: false
 set :markdown_engine, :kramdown
 activate :syntax
 
+activate :asset_hash
+
 activate :blog do |blog|
   activate :directory_indexes
   set :trailing_slash, false
