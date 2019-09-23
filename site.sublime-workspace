@@ -1,0 +1,1952 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"from",
+				"from_mobile_app\tabc"
+			],
+			[
+				"pay",
+				"payment_method\tabc"
+			],
+			[
+				"Paymen",
+				"PaymentMethod\t(payment_method.rb)"
+			],
+			[
+				"find_by",
+				"find_by_id\t(customer_concerns.rb)"
+			],
+			[
+				"Payment",
+				"PaymentMethod\tabc"
+			],
+			[
+				"motorbike_s",
+				"motorbike_schedule_id\tabc"
+			],
+			[
+				"redirec",
+				"redirect_url\tabc"
+			],
+			[
+				"app_ve",
+				"app_version_header\tabc"
+			],
+			[
+				"to_",
+				"to_i\tabc"
+			],
+			[
+				"vendr",
+				"vendor_id\tabc"
+			],
+			[
+				"ven",
+				"vendor_id\tabc"
+			],
+			[
+				"vendor",
+				"vendor_id\tabc"
+			],
+			[
+				"vendo",
+				"vendor_id\tabc"
+			],
+			[
+				"transfo",
+				"transformations\tabc"
+			],
+			[
+				"cameliz",
+				"camelize_params\tabc"
+			],
+			[
+				"Re",
+				"RequestError\tabc"
+			],
+			[
+				"re",
+				"response\tabc"
+			],
+			[
+				"amoun",
+				"amountRefunded\tabc"
+			],
+			[
+				"bookin",
+				"booking_id\tabc"
+			],
+			[
+				"external",
+				"external_id\tabc"
+			],
+			[
+				"expires",
+				"expiresAt\tabc"
+			],
+			[
+				"check",
+				"checkout_link\t(mollie.rb)"
+			],
+			[
+				"sett",
+				"settlementAmount\tabc"
+			],
+			[
+				"crea",
+				"create_payment\t(mollie.rb)"
+			],
+			[
+				"extern",
+				"external_id\tabc"
+			],
+			[
+				"payment",
+				"payment_id\tabc"
+			],
+			[
+				"BS",
+				"BASE_URL\tabc"
+			],
+			[
+				"BASE",
+				"BASE_URL\tabc"
+			],
+			[
+				"custo",
+				"customer_id\tabc"
+			],
+			[
+				"user",
+				"user_id\tabc"
+			],
+			[
+				"Mollie",
+				"MOLLIE_API_KEY"
+			],
+			[
+				"paym",
+				"payment_id\tabc"
+			],
+			[
+				"api",
+				"api_key\tabc"
+			],
+			[
+				"bike",
+				"bike_availability_confirmed\t(motorbike_booking_offer.rb)"
+			],
+			[
+				"order",
+				"orderID\tabc"
+			],
+			[
+				"any",
+				"any_vendor_motorbikes\tabc"
+			],
+			[
+				"motorbike_modl",
+				"motorbike_model_id\tabc"
+			],
+			[
+				"motorbike_",
+				"motorbike_vendor\tabc"
+			],
+			[
+				"motorb",
+				"motorbike_vendor\tabc"
+			],
+			[
+				"motorbi",
+				"motorbike_id\tabc"
+			],
+			[
+				"Motorb",
+				"MotorbikeBooking\tabc"
+			],
+			[
+				"act",
+				"act_as_admin\tabc"
+			],
+			[
+				"data",
+				"data_scope\tabc"
+			],
+			[
+				"aasm",
+				"aasm_state\tabc"
+			],
+			[
+				"expi",
+				"expired\t(state_machine.rb)"
+			],
+			[
+				"destro",
+				"destroy_all\t(motorbike_booking_offer.rb)"
+			],
+			[
+				"delivery",
+				"delivery_time\tabc"
+			],
+			[
+				"delive",
+				"delivery_time\tabc"
+			],
+			[
+				"find",
+				"find_by_id\t(broadcast.rb)"
+			],
+			[
+				"afterC",
+				"after_create_commit_callback\tabc"
+			],
+			[
+				"sea",
+				"search_radius\tabc"
+			],
+			[
+				"initial",
+				"initial_search_radius\tabc"
+			],
+			[
+				"book",
+				"booking_id\tabc"
+			],
+			[
+				"prev",
+				"previous_changes\tabc"
+			],
+			[
+				"notif",
+				"notifications\tabc"
+			],
+			[
+				"unconfi",
+				"unconfirmed_phone_number\tabc"
+			],
+			[
+				"unconfirmed",
+				"unconfirmed_phone_number\t(_dashboard_setting.html.haml)"
+			],
+			[
+				"shop",
+				"shopData\tabc"
+			],
+			[
+				"phone",
+				"phone_number\tabc"
+			],
+			[
+				"unconi",
+				"unconfirmed_phone_number\t(20190827064350_move_unconfirmed_phone_numbers.rb)"
+			],
+			[
+				"phon",
+				"phone_number\tabc"
+			],
+			[
+				"new",
+				"new_phone_number\tabc"
+			],
+			[
+				"dynam",
+				"dynamic_values"
+			],
+			[
+				"opening",
+				"opening_hour\tabc"
+			],
+			[
+				"begin",
+				"beginning_of_day\tabc"
+			],
+			[
+				"broad",
+				"broadcast_time\tabc"
+			],
+			[
+				"broadcast",
+				"broadcast_booking_offers\tabc"
+			],
+			[
+				"has",
+				"has_date_range\tabc"
+			],
+			[
+				"to",
+				"to_s\tabc"
+			],
+			[
+				"DATABASE_",
+				"DATABASE_PASSWORD\tabc"
+			],
+			[
+				"method",
+				"method_name\tabc"
+			],
+			[
+				"dia",
+				"disabled\tabc"
+			],
+			[
+				"star",
+				"start_date\tabc"
+			],
+			[
+				"sanitize",
+				"sanitize_sql_for_conditions\t(available_motorbike_models_query.rb)"
+			],
+			[
+				"sche",
+				"schedules\tabc"
+			],
+			[
+				"rebid",
+				"rebid_booking\t(bidding.rb)"
+			],
+			[
+				"bind",
+				"binding.pry"
+			],
+			[
+				"previous",
+				"previous_models\t(notification.rb)"
+			],
+			[
+				"deliver",
+				"delivery_location\tabc"
+			],
+			[
+				"update",
+				"update_columns\tabc"
+			],
+			[
+				"model",
+				"model_id\tabc"
+			],
+			[
+				"des",
+				"destroy_all\t(motorbike_booking_offer.rb)"
+			],
+			[
+				"cance",
+				"cancel\tabc"
+			],
+			[
+				"motorbk",
+				"motorbike_shop\tabc"
+			],
+			[
+				"motorbike",
+				"motorbike_booking\tabc"
+			],
+			[
+				"not",
+				"not_available\t(motorbike_booking_offer.rb)"
+			],
+			[
+				"acc",
+				"accept\tabc"
+			],
+			[
+				"booking",
+				"booking_action\tabc"
+			],
+			[
+				"cap",
+				"capture_exception\t(exchange_rate.rb)"
+			],
+			[
+				"acce",
+				"accepted\t(motorbike_booking_offer.rb)"
+			],
+			[
+				"with",
+				"with_lock\tabc"
+			],
+			[
+				"Sta",
+				"StandardError\t(motorbike.rb)"
+			],
+			[
+				"MotorbikeBookin",
+				"MotorbikeBookingOffer\tabc"
+			],
+			[
+				"o",
+				"offered_from\tabc"
+			],
+			[
+				"mo",
+				"mod\tmodule .. end"
+			],
+			[
+				"dat",
+				"date_range\tabc"
+			],
+			[
+				"end",
+				"end_date\tabc"
+			],
+			[
+				"sta",
+				"start_date\tabc"
+			],
+			[
+				"booki",
+				"booking_offer\tabc"
+			],
+			[
+				"sear",
+				"search_by_name\t(motorbike.rb)"
+			],
+			[
+				"motorbike_model",
+				"motorbike_model_id\tabc"
+			],
+			[
+				"item",
+				"items_shown\tabc"
+			],
+			[
+				"pag",
+				"pagy\tabc"
+			],
+			[
+				"boo",
+				"booking_offer\tabc"
+			],
+			[
+				"motorbike_mod",
+				"motorbike_model_id\tabc"
+			],
+			[
+				"brand",
+				"brand_id\tabc"
+			],
+			[
+				"mod",
+				"model\tmodel"
+			],
+			[
+				"for",
+				"for_counting\tabc"
+			],
+			[
+				"pre",
+				"present\tabc"
+			],
+			[
+				"sor",
+				"sort_key\tabc"
+			],
+			[
+				"long",
+				"longitude\tabc"
+			],
+			[
+				"lat",
+				"latitude\tabc"
+			],
+			[
+				"s",
+				"start_date\tabc"
+			],
+			[
+				"sort_",
+				"sort_key\tabc"
+			],
+			[
+				"sort",
+				"sort_key\tabc"
+			],
+			[
+				"so",
+				"sort_key\tabc"
+			],
+			[
+				"feat",
+				"features\tabc"
+			],
+			[
+				"pri",
+				"price_range\tabc"
+			],
+			[
+				"lon",
+				"longitude\t(available_motorbike_models_query.rb)"
+			],
+			[
+				"Motob",
+				"MotorbikeModel\tabc"
+			],
+			[
+				"where",
+				"where_conditions\tabc"
+			],
+			[
+				"image_id",
+				"image_ids\tabc"
+			],
+			[
+				"parent",
+				"parent_id\tabc"
+			],
+			[
+				"toggle",
+				"toggleLoadingOverlay\tabc"
+			],
+			[
+				"form",
+				"formData\tabc"
+			],
+			[
+				"daa",
+				"data_scope\tabc"
+			],
+			[
+				"rec",
+				"record_param\tabc"
+			],
+			[
+				"discou",
+				"discount_coupon\t(coupon_discounting.rb)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"blam",
+				"Git: Blame"
+			],
+			[
+				"ver",
+				"Git: Show Previous Version of Current File"
+			],
+			[
+				"git ch",
+				"Git: Checkout Current File"
+			],
+			[
+				"so",
+				"Sort Lines"
+			],
+			[
+				"uni",
+				"Permute Lines: Unique"
+			],
+			[
+				"dele",
+				"File Manager: Delete"
+			],
+			[
+				"git ve",
+				"Git: Show Previous Version of Current File"
+			],
+			[
+				"git che",
+				"Git: Checkout Current File"
+			],
+			[
+				"dup",
+				"File Manager: Duplicate"
+			],
+			[
+				"git chec",
+				"Git: Checkout Current File"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"renam",
+				"Rename File"
+			],
+			[
+				"sor",
+				"Sort Lines"
+			],
+			[
+				"ngin",
+				"Set Syntax: nginx"
+			],
+			[
+				"rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"move",
+				"File Manager: Move"
+			],
+			[
+				"renma",
+				"Rename File"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"versi",
+				"Git: Show Previous Version of Current File"
+			],
+			[
+				"up",
+				"Convert Case: Upper Case"
+			],
+			[
+				"wrpa",
+				"Word Wrap: Toggle"
+			],
+			[
+				"ansi",
+				"Set Syntax: ANSI"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"git chce",
+				"Git: Checkout Current File"
+			],
+			[
+				"vlam",
+				"Emmet: Evaluate Math Expression"
+			],
+			[
+				"ren",
+				"Rename File"
+			],
+			[
+				"mo",
+				"File Manager: Move"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"packa remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"pack rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"git ver",
+				"Git: Show Previous Version of Current File"
+			],
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown"
+			],
+			[
+				"du",
+				"File Manager: Duplicate"
+			],
+			[
+				"rail",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"dupl",
+				"File Manager: Duplicate"
+			],
+			[
+				"SQL",
+				"Set Syntax: SQL"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"un",
+				"Permute Lines: Unique"
+			],
+			[
+				"rena",
+				"Rename File"
+			],
+			[
+				"sort",
+				"Permute Selections: Sort"
+			],
+			[
+				"mov",
+				"File Manager: Move"
+			],
+			[
+				"git c",
+				"Git: Checkout Current File"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"re",
+				"Rename File"
+			],
+			[
+				"ti",
+				"Convert Case: Title Case"
+			],
+			[
+				"titl",
+				"Convert Case: Title Case"
+			],
+			[
+				"sql b",
+				"SQL Beautifier: Format Current SQL File"
+			],
+			[
+				"git h",
+				"Git: Checkout Current File"
+			],
+			[
+				"GIT CHEC",
+				"Git: Checkout Current File"
+			],
+			[
+				"ya",
+				"Set Syntax: YAML"
+			],
+			[
+				"del",
+				"File Manager: Delete"
+			],
+			[
+				"blma",
+				"Git: Blame"
+			],
+			[
+				"babe",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"cofeesc",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"duplica",
+				"File Manager: Duplicate"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"add rep",
+				"Package Control: Add Repository"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"git chc",
+				"Git: Checkout Current File"
+			],
+			[
+				"ini",
+				"Set Syntax: INI"
+			],
+			[
+				"dul",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"bour",
+				"Set Syntax: Bourne Again Shell (bash)"
+			],
+			[
+				"bash",
+				"Cheatsheet: Bash"
+			],
+			[
+				"branc",
+				"Git: Change Branch"
+			],
+			[
+				"gi chan",
+				"Git: Change Branch"
+			],
+			[
+				"chang",
+				"Git: Change Branch"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"blm",
+				"Git: Blame"
+			],
+			[
+				"r",
+				"Rename File"
+			],
+			[
+				"packa ins",
+				"Package Control: Install Package"
+			],
+			[
+				"bla",
+				"Git: Blame"
+			],
+			[
+				"vers",
+				"Git: Show Previous Version of Current File"
+			],
+			[
+				"git ce",
+				"Git: Checkout Current File"
+			],
+			[
+				"git vers",
+				"Git: Show Previous Version of Current File"
+			],
+			[
+				"dupli",
+				"File Manager: Duplicate"
+			],
+			[
+				"WRP",
+				"Word Wrap: Toggle"
+			],
+			[
+				"yam",
+				"Set Syntax: YAML"
+			],
+			[
+				"tit",
+				"Convert Case: Title Case"
+			],
+			[
+				"git dif",
+				"Git: Diff Current File"
+			],
+			[
+				"previe",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"gtiv",
+				"Git: Show Previous Version of Current File"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"duplic",
+				"File Manager: Duplicate"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"git chec ",
+				"Git: Change Branch"
+			],
+			[
+				"git ",
+				"Git: Change Branch"
+			],
+			[
+				"jasv",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"git hce",
+				"Git: Checkout Current File"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"bl",
+				"Git: Blame"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"packa rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"lo",
+				"Convert Case: Lower Case"
+			],
+			[
+				"ayu",
+				"ayu: Activate theme"
+			],
+			[
+				"schem",
+				"UI: Select Color Scheme"
+			],
+			[
+				"the",
+				"UI: Select Theme"
+			],
+			[
+				"packa d",
+				"Package Control: Disable Package"
+			],
+			[
+				"de",
+				"File Manager: Delete"
+			],
+			[
+				"git diff",
+				"Git: Diff Tool All"
+			],
+			[
+				"ve",
+				"Git: Show Previous Version of Current File"
+			],
+			[
+				"s",
+				"Sort Lines"
+			],
+			[
+				"chan",
+				"Git: Change Branch"
+			],
+			[
+				"fele",
+				"File Manager: Delete"
+			],
+			[
+				"dele fi",
+				"File Manager: Delete"
+			],
+			[
+				"delete",
+				"CSV: Delete column"
+			],
+			[
+				"v",
+				"Git: Show Previous Version of Current File"
+			],
+			[
+				"prettify",
+				"Pretty JSON: Minify (compress) JSON"
+			],
+			[
+				"THEM",
+				"UI: Select Theme"
+			],
+			[
+				"show di",
+				"Modific: Show diff"
+			],
+			[
+				"d",
+				"File: Duplicate"
+			],
+			[
+				"nginx",
+				"Set Syntax: nginx"
+			],
+			[
+				"veri",
+				"Git: Show Previous Version of Current File"
+			],
+			[
+				"change b",
+				"Git: Change Branch"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"git check",
+				"Git: Checkout Current File"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ukz/repos/pet-projects/site"
+	],
+	"file_history":
+	[
+		"/Users/ukz/repos/work-projects/melalie/api/Gemfile.lock",
+		"/Users/ukz/repos/work-projects/melalie/api/app/models/motorbike_booking.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/app/models/motorbike_booking/state_machine.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/app/controllers/api/v1/motorbike_models_controller.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/app/controllers/api/v1/motorbike_bookings_controller.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/app/queries/available_motorbike_models_query.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/app/models/booking_payment.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/app/jobs/session_cleanup_cron_job.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/app/models/notification.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/app/models/motorbike_booking/motorbike_swapping.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/app/models/discount_coupon_usage.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/app/externals/mollie.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/db/schema.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/app/models/swapped_motorbike_booking.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/app/models/motorbike_booking/customer_concerns.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/app/models/payment_method.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/db/migrate/20190919050217_add_from_mobile_app_to_booking_payments.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/config/webpack/environment.js",
+		"/Users/ukz/repos/work-projects/melalie/api/frontend/init/vendor/push-notifications.js",
+		"/Users/ukz/repos/work-projects/melalie/api/db/migrate/20190919045527_add_redirect_url_to_booking_payments.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/app/models/motorbike_booking/helpers.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/app/controllers/api/v1/api_controller.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/app/controllers/application_controller.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/app/models/affiliate_reward.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/config/locales/notifications.en.yml",
+		"/Users/ukz/repos/work-projects/melalie/api/app/models/motorbike_booking/coupon_discounting.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/app/models/discount_coupon.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/app/views/api/v1/motorbike_models/available.json.jbuilder",
+		"/Users/ukz/repos/work-projects/melalie/api/config/application.yml",
+		"/Users/ukz/repos/work-projects/melalie/api/config/environments/development.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/Gemfile",
+		"/Users/ukz/repos/work-projects/melalie/api/app/models/app_version.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/app/admin/devices.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/config/environments/production.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/config/application.rb",
+		"/Users/ukz/repos/work-projects/melalie/website/log/capistrano.log",
+		"/Users/ukz/repos/work-projects/melalie/website/.log/capistrano.log",
+		"/Users/ukz/repos/work-projects/melalie/api/app/models/user.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/app/controllers/api/v1/payment_methods_controller.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/app/utils/external.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/config/initializers/mollie.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/config/webpacker.yml",
+		"/Users/ukz/repos/work-projects/melalie/api/config/routes.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/.babelrc",
+		"/Users/ukz/repos/work-projects/melalie/api/google_cloud/cloudbuild.yaml",
+		"/Users/ukz/repos/work-projects/melalie/api/package.json",
+		"/Users/ukz/repos/work-projects/melalie/api/google_cloud/build_steps/update_database.sh",
+		"/Users/ukz/repos/work-projects/melalie/api/google_cloud/build_steps/gcloud_app_deploy.sh",
+		"/Users/ukz/repos/work-projects/melalie/api/frontend/components/react/orders/select_motorbike.jsx",
+		"/Users/ukz/repos/work-projects/melalie/api/app/controllers/api/v1/vendors/motorbike_bookings_controller.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/config/locales/dashboard.en.yml",
+		"/Users/ukz/repos/work-projects/melalie/api/config/locales/dashboard.id.yml",
+		"/Users/ukz/repos/work-projects/melalie/api/lib/middlewares/ping_pong.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/app/models/motorbike_booking/validations.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/app/models/motorbike_booking_offer.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/app/views/api/v1/motorbike_bookings/payment_breakdown.jbuilder",
+		"/Users/ukz/repos/work-projects/melalie/api/frontend/components/react/orders/parts/order_not_available_modal.jsx",
+		"/Users/ukz/repos/work-projects/melalie/api/app/queries/motorbikes_for_accepting_offer_query.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/app/models/motorbike_booking/broadcast.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/frontend/packs/dashboard.jsx",
+		"/Users/ukz/repos/work-projects/melalie/api/app/views/admin/orders/select_motorbike.html.haml",
+		"/Users/ukz/repos/work-projects/melalie/api/app/views/orders/select_motorbike.html.haml",
+		"/Users/ukz/repos/work-projects/melalie/api/app/controllers/admin/orders_controller.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/frontend/components/dashboard/orders/order_details/_dashboard_orders_order_details.html.haml",
+		"/Users/ukz/repos/work-projects/melalie/api/config/routes/admin_routes.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/Procfile",
+		"/Users/ukz/repos/work-projects/melalie/api/app/controllers/vendors/sessions_controller.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/app/controllers/orders_controller.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/app/controllers/api/v1/vendors/sessions_controller.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/app/models/vendor.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/app/models/motorbike_booking/async_methods.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/config/features.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/app/queries/rent_bidding_participants_query.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/config/locales/en.yml",
+		"/Users/ukz/repos/work-projects/melalie/api/app/models/opening_hour.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/google_cloud/app.staging.yaml",
+		"/Users/ukz/repos/work-projects/melalie/api/app/models/constant.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/app/jobs/eval_job.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/spec/jobs/eval_job_spec.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/db/migrate/20190905064547_add_radius_to_motorbike_bookings.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/db/data/20190906054702_set_booking_broadcast_settings.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/db/data/20190821133228_set_bidding_values.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/app/models/setting.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/db/data/20190813020251_add_booking_offer_timeout.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/google_cloud/app.sandbox.yaml",
+		"/Users/ukz/repos/work-projects/melalie/api/google_cloud/app.production.yaml",
+		"/Users/ukz/repos/work-projects/melalie/api/Dockerfile",
+		"/Users/ukz/repos/work-projects/melalie/api/LiveProcfile",
+		"/Users/ukz/repos/work-projects/melalie/api/app/controllers/home_controller.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/config/database.yml",
+		"/Users/ukz/repos/work-projects/melalie/api/config.ru",
+		"/Users/ukz/repos/work-projects/melalie/api/config/secrets.yml",
+		"/Users/ukz/repos/work-projects/melalie/api/config/environment.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/config/initializers/figaro.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/app/models/application_record.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/config/application-prod.yml",
+		"/Users/ukz/repos/work-projects/melalie/api/config/sidekiq.yml",
+		"/Users/ukz/repos/work-projects/melalie/api/config/initializers/rack_attack.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/app/models/motorbike_booking/bidding.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/app/uploaders/image_uploader.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/frontend/components/react/admin/admin_passport_requests/index.jsx",
+		"/Users/ukz/repos/work-projects/melalie/api/app/models/motorbike_booking/availability_control.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/frontend/components/react/common/responsive_list_page.jsx",
+		"/Users/ukz/repos/work-projects/melalie/api/frontend/components/react/admin/user_passport_requests/index.jsx",
+		"/Users/ukz/repos/work-projects/melalie/api/app/models/motorbike_model.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/app/admin/motorbike_bookings.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/db/data/20190809042400_remove_unused_models.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/app/controllers/api/v1/notifications_controller.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/app/controllers/api/v1/vendors/notifications_controller.rb",
+		"/Users/ukz/repos/pet-projects/site/source/stylesheets/main.css.scss.erb",
+		"/Users/ukz/repos/scripts/linkedin-learning-downloader/config.py",
+		"/Users/ukz/repos/work-projects/melalie/api/app/controllers/admin/statistics_controller.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/app/models/motorbike_shop.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/db/migrate/20180920063820_create_motorbike_shops.rb",
+		"/Users/ukz/repos/scripts/lynda-dl/cookies.txt",
+		"/Users/ukz/repos/scripts/lynda-dl/setup.py",
+		"/Users/ukz/repos/scripts/lynda-dl/lynda-dl.py",
+		"/Users/ukz/repos/work-projects/melalie/api/app/controllers/admin/motorbike_models_controller.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/app/jobs/notifier_job.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/db/data/20190829060636_group_motorbike_models.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/app/mailers/admin_mailer.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/app/models/qr_sticker.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/app/pdfs/qr_stickers_pdf.rb",
+		"/usr/local/Cellar/imagemagick/7.0.8-47/etc/ImageMagick-7/type-dejavu.xml",
+		"/usr/local/Cellar/imagemagick/7.0.8-47/etc/ImageMagick-7/type-apple.xml",
+		"/Users/ukz/repos/work-projects/melalie/api/.pryrc",
+		"/Users/ukz/repos/work-projects/melalie/api/db/data/20190827100441_add_initial_token_to_affiliates.rb",
+		"/Users/ukz/repos/work-projects/melalie/api/db/data/20190827100439_add_initial_token_to_vendor.rb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 171.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 111.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 157.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 162.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.mix_format":
+	{
+		"height": 181.0
+	},
+	"pinned_build_system": "",
+	"project": "site.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gem",
+				"Gemfile.lock"
+			],
+			[
+				"motorbike validat",
+				"app/models/motorbike_booking/validations.rb"
+			],
+			[
+				"motorbike booking .rb",
+				"app/models/motorbike_booking.rb"
+			],
+			[
+				"state m",
+				"app/models/motorbike_booking/state_machine.rb"
+			],
+			[
+				"broad",
+				"app/models/motorbike_booking/broadcast.rb"
+			],
+			[
+				"motorbike booking cot",
+				"app/controllers/api/v1/motorbike_bookings_controller.rb"
+			],
+			[
+				"availab",
+				"app/queries/available_motorbike_models_query.rb"
+			],
+			[
+				"booking ",
+				"app/models/booking_payment.rb"
+			],
+			[
+				"discount coupon usage",
+				"app/models/discount_coupon_usage.rb"
+			],
+			[
+				"state ma",
+				"app/models/motorbike_booking/state_machine.rb"
+			],
+			[
+				"swapped",
+				"app/models/swapped_motorbike_booking.rb"
+			],
+			[
+				"sche",
+				"db/schema.rb"
+			],
+			[
+				"session clean",
+				"app/jobs/session_cleanup_cron_job.rb"
+			],
+			[
+				"customer ",
+				"app/models/motorbike_booking/customer_concerns.rb"
+			],
+			[
+				"mollie",
+				"app/externals/mollie.rb"
+			],
+			[
+				"payment met",
+				"app/models/payment_method.rb"
+			],
+			[
+				"env",
+				"config/webpack/environment.js"
+			],
+			[
+				"from mobile",
+				"db/migrate/20190919050217_add_from_mobile_app_to_booking_payments.rb"
+			],
+			[
+				"booking",
+				"app/models/booking_payment.rb"
+			],
+			[
+				"add redir",
+				"db/migrate/20190919045527_add_redirect_url_to_booking_payments.rb"
+			],
+			[
+				"motorbike",
+				"app/models/motorbike_booking.rb"
+			],
+			[
+				"state",
+				"app/models/motorbike_booking/state_machine.rb"
+			],
+			[
+				"motorbike booking.r",
+				"app/models/motorbike_booking.rb"
+			],
+			[
+				"api cont",
+				"app/controllers/api/v1/api_controller.rb"
+			],
+			[
+				"motorbike booking contr",
+				"app/controllers/api/v1/motorbike_bookings_controller.rb"
+			],
+			[
+				"bookin",
+				"app/models/booking_payment.rb"
+			],
+			[
+				"discount coupon us",
+				"app/models/discount_coupon_usage.rb"
+			],
+			[
+				"coupon discountin",
+				"app/models/motorbike_booking/coupon_discounting.rb"
+			],
+			[
+				"coupon dis",
+				"app/models/discount_coupon.rb"
+			],
+			[
+				"affiliate re",
+				"app/models/affiliate_reward.rb"
+			],
+			[
+				"available",
+				"app/views/api/v1/motorbike_models/available.json.jbuilder"
+			],
+			[
+				"motorbike model controll",
+				"app/controllers/api/v1/motorbike_models_controller.rb"
+			],
+			[
+				"api",
+				"app/controllers/api/v1/api_controller.rb"
+			],
+			[
+				"appli",
+				"config/application.yml"
+			],
+			[
+				"api contro",
+				"app/controllers/api/v1/api_controller.rb"
+			],
+			[
+				"motorbike model cont",
+				"app/controllers/api/v1/motorbike_models_controller.rb"
+			],
+			[
+				"develo",
+				"config/environments/development.rb"
+			],
+			[
+				"dev",
+				"app/admin/devices.rb"
+			],
+			[
+				"produ",
+				"config/environments/production.rb"
+			],
+			[
+				"booking controller",
+				"app/controllers/api/v1/motorbike_bookings_controller.rb"
+			],
+			[
+				"discoun",
+				"app/models/discount_coupon_usage.rb"
+			],
+			[
+				"motorbike booking",
+				"app/models/motorbike_booking.rb"
+			],
+			[
+				"schema",
+				"db/schema.rb"
+			],
+			[
+				"molli",
+				"app/externals/mollie.rb"
+			],
+			[
+				"payment method in",
+				"app/controllers/api/v1/payment_methods_controller.rb"
+			],
+			[
+				"user.",
+				"app/models/user.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"exter",
+				"app/utils/external.rb"
+			],
+			[
+				"xter",
+				"app/utils/external.rb"
+			],
+			[
+				"ext",
+				"app/utils/external.rb"
+			],
+			[
+				"babel",
+				".babelrc"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"babe",
+				".babelrc"
+			],
+			[
+				"web",
+				"config/webpacker.yml"
+			],
+			[
+				"ro",
+				"config/routes.rb"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"user.r",
+				"app/models/user.rb"
+			],
+			[
+				"motorbike booking validati",
+				"app/models/motorbike_booking/validations.rb"
+			],
+			[
+				"motorbike booking contorl",
+				"app/controllers/api/v1/motorbike_bookings_controller.rb"
+			],
+			[
+				"payment bre",
+				"app/views/api/v1/motorbike_bookings/payment_breakdown.jbuilder"
+			],
+			[
+				"ping",
+				"lib/middlewares/ping_pong.rb"
+			],
+			[
+				"motorbike booking control",
+				"app/controllers/api/v1/vendors/motorbike_bookings_controller.rb"
+			],
+			[
+				"motorbike booking offer",
+				"app/models/motorbike_booking_offer.rb"
+			],
+			[
+				"selectmoto",
+				"frontend/components/react/orders/select_motorbike.jsx"
+			],
+			[
+				"bro",
+				"app/models/motorbike_booking/broadcast.rb"
+			],
+			[
+				"vendors motorbike booking",
+				"app/controllers/api/v1/vendors/motorbike_bookings_controller.rb"
+			],
+			[
+				"das js",
+				"frontend/packs/dashboard.jsx"
+			],
+			[
+				"select ",
+				"app/views/orders/select_motorbike.html.haml"
+			],
+			[
+				"admin order co",
+				"app/controllers/admin/orders_controller.rb"
+			],
+			[
+				"adminro",
+				"config/routes/admin_routes.rb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"order detail ",
+				"frontend/components/dashboard/orders/order_details/_dashboard_orders_order_details.html.haml"
+			],
+			[
+				"proc",
+				"Procfile"
+			],
+			[
+				"admin rou",
+				"config/routes/admin_routes.rb"
+			],
+			[
+				"applic",
+				"config/application.rb"
+			],
+			[
+				"session controll",
+				"app/controllers/vendors/sessions_controller.rb"
+			],
+			[
+				"vendor session controller",
+				"app/controllers/api/v1/vendors/sessions_controller.rb"
+			],
+			[
+				"motorbike booking off",
+				"app/models/motorbike_booking_offer.rb"
+			],
+			[
+				"fe",
+				"config/features.rb"
+			],
+			[
+				"broa",
+				"app/models/motorbike_booking/broadcast.rb"
+			],
+			[
+				"mbo",
+				"app/models/motorbike_booking_offer.rb"
+			],
+			[
+				"motorbike booking.rb",
+				"app/models/motorbike_booking.rb"
+			],
+			[
+				"motorbike bookin",
+				"app/models/motorbike_booking.rb"
+			],
+			[
+				"stat",
+				"app/models/motorbike_booking/state_machine.rb"
+			],
+			[
+				"schem",
+				"db/schema.rb"
+			],
+			[
+				"state mach",
+				"app/models/motorbike_booking/state_machine.rb"
+			],
+			[
+				"Validations.",
+				"app/models/motorbike_booking/validations.rb"
+			],
+			[
+				"motorbie booking",
+				"app/models/motorbike_booking.rb"
+			],
+			[
+				"appl",
+				"config/application.yml"
+			],
+			[
+				"valida",
+				"app/models/motorbike_booking/validations.rb"
+			],
+			[
+				"motorbike booking controller",
+				"app/controllers/api/v1/motorbike_bookings_controller.rb"
+			],
+			[
+				"applica yml",
+				"config/application.yml"
+			],
+			[
+				"app .yam",
+				"google_cloud/app.staging.yaml"
+			],
+			[
+				"cons",
+				"app/models/constant.rb"
+			],
+			[
+				"broadcast bookn",
+				"app/models/motorbike_booking/broadcast.rb"
+			],
+			[
+				"add radiu",
+				"db/migrate/20190905064547_add_radius_to_motorbike_bookings.rb"
+			],
+			[
+				"set",
+				"db/data/20190821133228_set_bidding_values.rb"
+			],
+			[
+				"setting.r",
+				"app/models/setting.rb"
+			],
+			[
+				"set b",
+				"db/data/20190821133228_set_bidding_values.rb"
+			],
+			[
+				"cosnta",
+				"app/models/constant.rb"
+			],
+			[
+				"setting",
+				"app/models/setting.rb"
+			],
+			[
+				"pingp",
+				"lib/middlewares/ping_pong.rb"
+			],
+			[
+				"applica.r",
+				"config/application.rb"
+			],
+			[
+				"applica.rb",
+				"config/application.rb"
+			],
+			[
+				"home",
+				"app/controllers/home_controller.rb"
+			],
+			[
+				"prod",
+				"config/environments/production.rb"
+			],
+			[
+				"confi",
+				"config.ru"
+			],
+			[
+				"home con",
+				"app/controllers/home_controller.rb"
+			],
+			[
+				"live",
+				"LiveProcfile"
+			],
+			[
+				"pro",
+				"Procfile"
+			],
+			[
+				"sec",
+				"config/secrets.yml"
+			],
+			[
+				"envi",
+				"config/environment.rb"
+			],
+			[
+				"applica ym",
+				"config/application.yml"
+			],
+			[
+				"production.",
+				"config/environments/production.rb"
+			],
+			[
+				"secr",
+				"config/secrets.yml"
+			],
+			[
+				"fig",
+				"config/initializers/figaro.rb"
+			],
+			[
+				"applica y",
+				"config/application.yml"
+			],
+			[
+				"applicat",
+				"app/models/application_record.rb"
+			],
+			[
+				"data",
+				"config/database.yml"
+			],
+			[
+				"procf",
+				"Procfile"
+			],
+			[
+				"dock",
+				"Dockerfile"
+			],
+			[
+				"prod.y",
+				"config/application-prod.yml"
+			],
+			[
+				"applica",
+				"config/application-prod.yml"
+			],
+			[
+				"sidek",
+				"config/sidekiq.yml"
+			],
+			[
+				"rack att",
+				"config/initializers/rack_attack.rb"
+			],
+			[
+				"mbo.",
+				"app/models/motorbike_booking_offer.rb"
+			],
+			[
+				"biddin",
+				"app/models/motorbike_booking/bidding.rb"
+			],
+			[
+				"MotorbikeBooking Validations",
+				"app/models/motorbike_booking/validations.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/repos/work-projects/melalie/website/melalie-website.sublime-project"
+			],
+			[
+				"melal",
+				"~/repos/work-projects/melalie/website/melalie-website.sublime-project"
+			],
+			[
+				"web",
+				"~/repos/work-projects/melalie/website/melalie-website.sublime-project"
+			],
+			[
+				"li",
+				"~/repos/pet-projects/lihai/config/lihai.sublime-project"
+			],
+			[
+				"melalie",
+				"~/repos/work-projects/melalie/website/melalie-website.sublime-project"
+			],
+			[
+				"d",
+				"~/repos/work-projects/melalie/canggu/docker-images.sublime-project"
+			],
+			[
+				"we",
+				"~/repos/work-projects/melalie/website/melalie-website.sublime-project"
+			],
+			[
+				"mela",
+				"~/repos/work-projects/melalie/website/melalie-website.sublime-project"
+			],
+			[
+				"w",
+				"~/repos/work-projects/melalie/website/melalie-website.sublime-project"
+			],
+			[
+				"ju",
+				"~/repos/work-projects/xjurnal/quickbook/Jurnal App.sublime-project"
+			],
+			[
+				"jurn",
+				"~/repos/work-projects/xjurnal/quickbook/Jurnal App.sublime-project"
+			],
+			[
+				"melali",
+				"~/repos/work-projects/melalie/website/melalie-website.sublime-project"
+			],
+			[
+				"blog",
+				"~/repos/work-projects/melalie/blog/melalie-blog.sublime-project"
+			],
+			[
+				"bl",
+				"~/repos/work-projects/melalie/blog/melalie-blog.sublime-project"
+			],
+			[
+				"memallie bl",
+				"~/repos/work-projects/melalie/blog/melalie-blog.sublime-project"
+			],
+			[
+				"j",
+				"~/repos/work-projects/xjurnal/quickbook/Jurnal App.sublime-project"
+			],
+			[
+				"melalie web",
+				"~/repos/work-projects/melalie-landingspage/melalie-website.sublime-project"
+			],
+			[
+				"cleq",
+				"~/repos/work-projects/cleq-website/cleq-cms.sublime-project"
+			],
+			[
+				"jun",
+				"~/repos/work-projects/quickbook/Jurnal App.sublime-project"
+			],
+			[
+				"m",
+				"~/repos/work-projects/melalie-landingspage/melalie-website.sublime-project"
+			],
+			[
+				"websi",
+				"~/repos/work-projects/melalie-landingspage/melalie-website.sublime-project"
+			],
+			[
+				"con",
+				"~/repos/work-projects/company_consolidation/Company Consolidation.sublime-project"
+			],
+			[
+				"jur",
+				"~/repos/work-projects/quickbook/Jurnal App.sublime-project"
+			],
+			[
+				"webs",
+				"~/repos/work-projects/cleq-website/cleq-cms.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 270.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
