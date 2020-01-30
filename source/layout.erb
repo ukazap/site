@@ -24,32 +24,27 @@
     <meta name="theme-color" content="#00ffbf">
 
     <title>
-      <% if current_article&.title %>
-        <%= current_article.title %>
-      <% else %>
-        Programming & Lollygagging :: Ukaza Perdana
-      <% end %>
+      Ukaza Perdana
     </title>
-
-    <%= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
 
     <%= stylesheet_link_tag :main, media: 'screen' %>
   </head>
 
   <body>
-    <header>
-      <h1><a href="/">Programming & Lollygagging</a></h1>
-      <h2>Ukaza Perdana's Notes</h2>
-      <ul>
-        <li><a class="button" href="/">Home</a></li>
-        <li><a class="button" href="https://www.linkedin.com/in/ukazap">Résumé</a></li>
-        <li><a class="button" href="/about">About</a></li>
-        <li><a class="button" href="/subscribe">Subscribe</a></li>
-      </ul>
-    </header>
-
+    <% if false %>
+      <header>
+        <h1><a href="/">Programming & Lollygagging</a></h1>
+        <h2>Ukaza Perdana's Notes</h2>
+        <ul>
+          <li><a class="button" href="/">Home</a></li>
+          <li><a class="button" href="https://www.linkedin.com/in/ukazap">Résumé</a></li>
+          <li><a class="button" href="/about">About</a></li>
+          <li><a class="button" href="/subscribe">Subscribe</a></li>
+        </ul>
+      </header>
+    <% end %>
     <div id="main" role="main">
-      <% if current_article&.title %>
+      <% if false && current_article&.title %>
         <p><%= current_article.date.strftime('%Y/%m/%d') %>:</p>
         <h1 class='title'><%= link_to current_article.title, current_article %></h1>
       <% end %>
@@ -82,8 +77,10 @@
     </aside>
     <% end %>
 
-    <footer>
-      <a href="#">🤘</a>
-    </footer>
+    <% if false %>
+      <footer>
+        <a href="#">🤘</a>
+      </footer>
+    <% end %>
   </body>
 </html>
