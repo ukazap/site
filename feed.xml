@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Programming &amp; Lollygagging</title>
+  <subtitle>Ukaza Perdana's Notes</subtitle>
+  <id>https://Ukaza.perdana.dev/</id>
+  <link href="https://Ukaza.perdana.dev/"/>
+  <link href="https://Ukaza.perdana.dev/feed.xml" rel="self"/>
+  <updated>2019-09-01T12:10:00+08:00</updated>
+  <author>
+    <name>Ukaza Perdana</name>
+  </author>
+  <entry>
+    <title>Why am I too lazy to do anything today?</title>
+    <link rel="alternate" href="https://Ukaza.perdana.dev/2019/09/01/halah"/>
+    <id>https://Ukaza.perdana.dev/2019/09/01/halah</id>
+    <published>2019-09-01T12:10:00+08:00</published>
+    <updated>2020-06-20T19:27:18+08:00</updated>
+    <author>
+      <name>Ukaza Perdana</name>
+    </author>
+    <content type="html">&lt;h2 id="hey"&gt;Hey&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim, possimus ea. Tempore non, porro sed nulla odio ipsum cumque voluptate alias fugiat id consectetur autem vero minus tenetur, veniam et.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://github.com/ukazap"&gt;Visit My GitHub&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://github.com/ukazap" class="button"&gt;Visit My GitHub Button&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This is an inline quote: &lt;q&gt;Lorem ipsum dolor sit amet&lt;/q&gt;. This is a block quote:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit perferendis quos reprehenderit odit harum nobis minus, ratione impedit beatae dolor, dolores maxime voluptate, incidunt explicabo rem vitae. Amet eum, eos.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;hehehe &lt;code&gt;inline code&lt;/code&gt;&lt;/p&gt;
+
+&lt;div class="highlight"&gt;&lt;pre class="highlight ruby"&gt;&lt;code&gt;&lt;span class="k"&gt;class&lt;/span&gt; &lt;span class="nc"&gt;Hehe&lt;/span&gt;
+  &lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;whoa&lt;/span&gt;
+    &lt;span class="nb"&gt;puts&lt;/span&gt; &lt;span class="s1"&gt;'whoa there'&lt;/span&gt;
+  &lt;span class="k"&gt;end&lt;/span&gt;
+
+  &lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;neq&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;qqq&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="nb"&gt;self&lt;/span&gt; &lt;span class="o"&gt;!=&lt;/span&gt; &lt;span class="n"&gt;qqq&lt;/span&gt;
+  &lt;span class="k"&gt;end&lt;/span&gt;
+&lt;span class="k"&gt;end&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id="handsome"&gt;Handsome&lt;/h2&gt;
+
+&lt;figure role="img"&gt;
+  &lt;img src="https://imgix.ranker.com/user_node_img/50041/1000806916/original/young-keanu-reeves-in-black-t-shirt-semi-closeup-photo-u1?w=650&amp;amp;q=50&amp;amp;fm=pjpg&amp;amp;fit=crop&amp;amp;crop=faces" alt="Young keanu reeves in black t shirt semi closeup photo u1?w=650&amp;amp;q=50&amp;amp;fm=pjpg&amp;amp;fit=crop&amp;amp;crop=faces" height="300" /&gt;
+  &lt;figcaption&gt;
+    Oom Keanu
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h1 id="heading-1"&gt;HEADING 1&lt;/h1&gt;
+
+&lt;h2 id="heading-2"&gt;HEADING 2&lt;/h2&gt;
+
+&lt;h3 id="heading-3"&gt;HEADING 3&lt;/h3&gt;
+
+&lt;h4 id="heading-4"&gt;HEADING 4&lt;/h4&gt;
+
+&lt;h5 id="heading-5"&gt;HEADING 5&lt;/h5&gt;
+
+&lt;h6 id="heading-6"&gt;HEADING 6&lt;/h6&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Example Article</title>
+    <link rel="alternate" href="https://Ukaza.perdana.dev/2012/01/01/example-article"/>
+    <id>https://Ukaza.perdana.dev/2012/01/01/example-article</id>
+    <published>2012-01-01T00:00:00+08:00</published>
+    <updated>2020-06-20T19:27:18+08:00</updated>
+    <author>
+      <name>Ukaza Perdana</name>
+    </author>
+    <content type="html">&lt;p&gt;This is an example article. You probably want to delete it and write your own articles!&lt;/p&gt;
+</content>
+  </entry>
+</feed>
