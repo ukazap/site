@@ -6,3 +6,4 @@ cp -a ./build/. ../
 cd ..
 git add .
 git commit -m "Site update `date`"
+git push
